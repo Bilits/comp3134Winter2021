@@ -1,0 +1,15 @@
+Traceroute has started…
+
+traceroute to techterms.com (67.43.14.98), 64 hops max, 72 byte packets
+ 1  router.asus.com (192.168.1.1)  1.526 ms  3.341 ms  1.270 ms
+ 2  66-11-178-129.cpe.distributel.net (66.11.178.129)  15.343 ms  10.727 ms  14.397 ms
+ 3  * ppp-206-80-241-156.nas01.mtlcnds.ext.distributel.net (206.80.241.156)  81.104 ms  69.526 ms
+ 4  216.58.97.153 (216.58.97.153)  45.099 ms  33.891 ms  17.216 ms
+ 5  64.125.54.105 (64.125.54.105)  19.663 ms  31.460 ms  42.931 ms
+ 6  * * *
+ 7  * ae23.cs3.iad93.us.eth.zayo.com (64.125.28.189)  35.746 ms *
+ 8  * * *
+ 9  * eqix-dc2.liquidweb.com (206.126.238.138)  41.493 ms  37.370 ms
+10  lw-dc2-core1-nexus-eth3-20.rtr.liquidweb.com (209.59.157.81)  102.819 ms  54.250 ms  61.940 ms
+11  lw-dc2-dist3.rtr.liquidweb.com (209.59.157.101)  53.038 ms  57.051 ms  49.048 ms
+12  * techterms.com (67.43.14.98)  56.353 ms  73.524 ms
